@@ -21,5 +21,3 @@ https://texdoc.org/serve/pgfgantt.pdf/0 <br>
 
 
 
-
-
