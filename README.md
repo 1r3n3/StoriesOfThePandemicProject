@@ -2,7 +2,7 @@
 Story of Pandemic Project, DH Uni Leipzig WS21/22
 
 
-<b> Links: </b>
+<b> Links: </b><br>
 OverLEave Exposé:https://www.overleaf.com/project/61dc53e084149b773a256640 <br>
 OverLeave Report: https://www.overleaf.com/project/61dc585284149b6b8925dc9a <br>
 GitHub:https://github.com/Oscar161/StoOfPanDH2022/ <br>
