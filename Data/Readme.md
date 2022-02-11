@@ -1,6 +1,7 @@
 Guardian-API Data Scraping:
 
 Niklas: Daten aus Jahr 2019 + 2020 + 2022
+
 Irene: Daten aus Jahr 2021
 
 Gespeicherte Daten in CSV-Dateien:
