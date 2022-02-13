@@ -10,7 +10,8 @@ Gespeicherte Daten in CSV-Dateien:
 - coronavirus2 --> query = "coronavirus", 01.05.2020 - 31.07.2020
 - coronavirus3 --> query = "coronavirus", 01.08.2020 - 31.10.2020
 - coronavirus4 --> query = "coronavirus", 01.11.2020 - 31.12.2020
-- coronavirus5 --> query = "coronavirus", 01.01.2021 - 31.01.2021
+- coronavirus5 --> query = "coronavirus", 01.01.2021 - 31.03.2021
+- coronavirus6 --> query = "coronavirus", 01.04.2021 - 31.07.2021
 
 
 - covid-19_1 --> query = "Covid-19", Dezember 2019 - 31.03.2020
