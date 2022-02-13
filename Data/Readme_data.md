@@ -1,8 +1,8 @@
 Guardian-API Data Scraping:
 
-Niklas: Daten aus Jahr 2019 + 2020 + 2022
+Niklas: Daten aus Jahr 2019 + 2020 
 
-Irene: Daten aus Jahr 2021
+Irene: Daten aus Jahr 2021 + 2022
 
 Gespeicherte Daten in CSV-Dateien:
 
@@ -10,6 +10,7 @@ Gespeicherte Daten in CSV-Dateien:
 - coronavirus2 --> query = "coronavirus", 01.05.2020 - 31.07.2020
 - coronavirus3 --> query = "coronavirus", 01.08.2020 - 31.10.2020
 - coronavirus4 --> query = "coronavirus", 01.11.2020 - 31.12.2020
+- coronavirus5 --> query = "coronavirus", 01.01.2021 - 31.01.2021
 
 
 - covid-19_1 --> query = "Covid-19", Dezember 2019 - 31.03.2020
