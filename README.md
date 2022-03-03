@@ -22,8 +22,8 @@ https://www.mendeley.com/<br>
 <b>Topic:</b><br>
 
 
-R-Files:<br>
 
+R-Files:<br>
 Guapi_data_scraping.R: Skript für's Data Scraping <br>
 Corpus_creating.R: Erstellung der CSV-Datei aus allen einzelnen CSV-Dateien <br>
 Preprocessing.R: Preprocessing-Schritte (Lemmatization, Tokenization, Korpus-Erstellung, etc.) <br>
