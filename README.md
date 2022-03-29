@@ -24,8 +24,8 @@ https://www.mendeley.com/<br>
 
 
 R-Files:<br>
-Guapi_data_scraping.R: Skript für's Data Scraping <br>
-Corpus_creating.R: Erstellung der CSV-Datei aus allen einzelnen CSV-Dateien <br>
+* Guapi_data_scraping.R: Skript für's Data Scraping <br>
+* Corpus_creating.R: Erstellung der CSV-Datei aus allen einzelnen CSV-Dateien <br>
 Preprocessing.R: Preprocessing-Schritte (Lemmatization, Tokenization, Korpus-Erstellung, etc.) <br>
 Subset_corpus_tests.R: Test-Skript zur Kookurrenzenanalyse für einen Teil der Daten mit Erstellung eines Graphen <br>
 Plot_articles_frequencies_over_time.R: Skript zum Erstellen des Zeitverlaufs der Artikelhäufigkeiten <br>
