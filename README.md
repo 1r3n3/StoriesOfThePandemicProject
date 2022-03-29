@@ -21,11 +21,19 @@ https://www.mendeley.com/<br>
 
 <b>Topic:</b><br>
 
-
+Data-Folder: <br>
+* Csv files with the scraped data
 
 R-Files:<br>
-* Guapi_data_scraping.R: Skript für's Data Scraping <br>
-* Corpus_creating.R: Erstellung der CSV-Datei aus allen einzelnen CSV-Dateien <br>
-Preprocessing.R: Preprocessing-Schritte (Lemmatization, Tokenization, Korpus-Erstellung, etc.) <br>
-Subset_corpus_tests.R: Test-Skript zur Kookurrenzenanalyse für einen Teil der Daten mit Erstellung eines Graphen <br>
-Plot_articles_frequencies_over_time.R: Skript zum Erstellen des Zeitverlaufs der Artikelhäufigkeiten <br>
+* guapi_data_scraping.R: Script for data scraping <br>
+* corpus_creating.R: Creation of a CSV file with all articles - based on all individual CSV files <br>
+* preprocessing.R: Preprocessing steps (Data reading, data set preprocessing, corpus creation, lemmatization, stop word removal, tokenization) <br>
+* plot_articles_frequencies_over_time: Source code for displaying article frequencies over time <br>
+* plot_covidwords_frequencies: Source code to show the occurrence of Covid terms <br>
+* plot_wordfrequencies: Source code for displaying absolute and relative word frequencies (including their occurrence over time) <br>
+* calculateCoocStatistics: Source code for the co-occurrence calculation <br>
+* title_analysis: Source code only for the analysis of article headings <br>
+* cooc_analysis: Source code for the generation of cooccurrence networks <br>
+* topic_modelling: Source code for investigations with topic modeling <br>
+* baseform_en.tsv: File for building a dictionary of lemmas <br>
+* stopwords_en: Stop word list <br>
