@@ -33,6 +33,7 @@ R-Files:<br>
 * plot_wordfrequencies: Source code for displaying absolute and relative word frequencies (including their occurrence over time) <br>
 * calculateCoocStatistics: Source code for the co-occurrence calculation <br>
 * title_analysis: Source code only for the analysis of article headings <br>
+* tfidf.R: Source for for the analysis with tf-idf measure <br>
 * cooc_analysis: Source code for the generation of cooccurrence networks <br>
 * topic_modelling: Source code for investigations with topic modeling <br>
 * baseform_en.tsv: File for building a dictionary of lemmas <br>
