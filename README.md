@@ -1,4 +1,4 @@
-#StoriesOfThePandemicProject
+# Stories of the Pandemic Project
 
 This project is part of the module Methods and Applications in Digital Humanities at Leipzig University in WS21/22. It was supervised by Dr. Andreas Niekler. 
 
