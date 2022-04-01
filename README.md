@@ -29,3 +29,9 @@ R-Files:<br>
 * topic_modelling: Source code for investigations with topic modeling <br>
 * baseform_en.tsv: File for building a dictionary of lemmas <br>
 * stopwords_en: Stop word list <br>
+
+## Copyright
+
+The copright is ©2022
+* MIT for the R-Scripts
+* CC-BY for all images and text
