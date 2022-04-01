@@ -2,7 +2,7 @@
 
 This project is part of the module Methods and Applications in Digital Humanities at Leipzig University in WS21/22. It was supervised by Dr. Andreas Niekler. 
 
-## About this project
+## About
 Since the beginning of the year 2020 there is one major topic existing in all kinds of media: the COVID-19 pandemic. This topic is also the subject of many scientific works, statistics and general publications. These provide insights into current developments as well as retrospective ones. What was relevant at what time and how terms have developed can be determined from these texts. In view of the fact that the published articles consider different topics and opinions regarding the pandemic, it is interesting to examine them in more detail. Therefore, this research will explore the use of topic modelling and other text analysis methods to visualize or summarize the different stories of the pandemic in a certain text corpus. The main data source
 will be consisting of a text corpus of various Guardian news articles on the COVID-19 pandemic over the last two years, provided in the so called "Guardian-API": https://rapidapi.com/mikilior1/api/Guardian/details. 
 This research study focuses specifically on three research questions: First, What topics regarding the COVID-19 pandemic appear in the Guardian news articles and how have they changed over a certain period of time? Second, Is it possible to visualize and narrow down the stories of the pandemic into a map of knowledge? And Third, What can such a representation do? What are its limitations and how can this representation contribute to enlightenment?. 
