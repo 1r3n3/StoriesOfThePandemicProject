@@ -12,6 +12,9 @@ This research study focuses specifically on three research questions: First, Wha
 
 ## Data
 
+Project Report: <br>
+* StoriesOfThePandemic.pdf
+
 Data-Folder: <br>
 * Csv files with the scraped data
 
