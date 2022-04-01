@@ -10,7 +10,7 @@ The main data source will be consisting of a text corpus of various Guardian new
 This research study focuses specifically on three research questions: First, What topics regarding the COVID-19 pandemic appear in the Guardian news articles and how have they changed over a certain period of time? Second, Is it possible to visualize and narrow down the stories of the pandemic into a map of knowledge? And Third, What can such a representation do? What are its limitations and how can this representation contribute to enlightenment?. 
 
 
-## Data in this repo
+## Data
 
 Data-Folder: <br>
 * Csv files with the scraped data
